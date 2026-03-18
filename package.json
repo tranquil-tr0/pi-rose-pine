@@ -1,0 +1,20 @@
+{
+  "name": "rose-pine-pi-coding-agent-theme",
+  "version": "1.0.0",
+  "description": "Rosé Pine theme for Pi Coding Agent - All natural pine, faux fur and a bit of soho vibes for the classy minimalist",
+  "keywords": ["pi-package", "pi-theme", "rose-pine", "theme"],
+  "author": "tranquil-tr0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tranquil-tr0/rose-pine-pi-coding-agent-theme.git"
+  },
+  "pi": {
+    "themes": ["./themes"],
+    "image": "https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png"
+  },
+  "homepage": "https://github.com/tranquil-tr0/rose-pine-pi-coding-agent-theme#readme",
+  "bugs": {
+    "url": "https://github.com/tranquil-tr0/rose-pine-pi-coding-agent-theme/issues"
+  }
+}
