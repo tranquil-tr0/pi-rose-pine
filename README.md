@@ -1,0 +1,28 @@
+<p align="center">
+    <img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="80" />
+    <h2 align="center">Rosé Pine for Pi Coding Agent</h2>
+</p>
+
+<p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
+
+## Manual Installation
+
+1. Clone the repo and copy the theme files to your Pi themes directory:
+
+   ```bash
+   git clone https://github.com/tranquil-tr0/rose-pine-pi-coding-agent-theme.git /tmp/rose-pine-pi && \
+   cp /tmp/rose-pine-pi/rose-pine*.json ~/.pi/agent/themes/
+   ```
+
+2. Select a theme in Pi:
+   - Run `pi` to start the coding agent
+   - Type `/settings` to open the settings menu
+   - Select the theme option and choose `rose-pine`, `rose-pine-moon`, or `rose-pine-dawn`
+
+## Design notes
+
+Follows official [Rosé Pine](https://rosepinetheme.com/) colors.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
