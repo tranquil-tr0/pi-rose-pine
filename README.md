@@ -5,19 +5,10 @@
 
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
 
-## Manual Installation
+## Install
 
-1. Clone the repo and copy the theme files to your Pi themes directory:
-
-   ```bash
-   git clone https://github.com/tranquil-tr0/rose-pine-pi-coding-agent-theme.git /tmp/rose-pine-pi && \
-   cp /tmp/rose-pine-pi/rose-pine*.json ~/.pi/agent/themes/
-   ```
-
-2. Select a theme in Pi:
-   - Run `pi` to start the coding agent
-   - Type `/settings` to open the settings menu
-   - Select the theme option and choose `rose-pine`, `rose-pine-moon`, or `rose-pine-dawn`
+Install with pi
+```pi install git:github.com/tranquil-tr0/rose-pine-pi-coding-agent-theme```
 
 ## Design notes
 
