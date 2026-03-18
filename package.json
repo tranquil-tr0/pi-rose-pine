@@ -1,8 +1,14 @@
 {
-  "name": "rose-pine-pi-coding-agent-theme",
+  "name": "rose-pine-pi-themes",
   "version": "1.0.0",
   "description": "Rosé Pine theme for Pi Coding Agent - All natural pine, faux fur and a bit of soho vibes for the classy minimalist",
-  "keywords": ["pi-package", "pi-theme", "rose-pine", "theme"],
+  "main": "package.json",
+  "files": [
+    "themes/",
+    "package.json",
+    "README.md"
+  ],
+  "keywords": ["pi-package", "pi-theme", "rose-pine", "theme", "colorscheme"],
   "author": "tranquil-tr0",
   "license": "MIT",
   "repository": {

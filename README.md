@@ -7,7 +7,8 @@
 
 ## Install
 
-Install with pi
+Install with pi:
+
 ```pi install git:github.com/tranquil-tr0/rose-pine-pi-coding-agent-theme```
 
 ## Design notes
