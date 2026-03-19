@@ -9,7 +9,7 @@
 
 Install with pi:
 
-```pi install git:github.com/tranquil-tr0/rose-pine-pi-coding-agent-theme```
+```pi install npm:rose-pine-pi-themes```
 
 ## Design notes
 
