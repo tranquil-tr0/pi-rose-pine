@@ -1,6 +1,6 @@
 {
   "name": "@tran-quil/pi-rose-pine",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Rosé Pine theme for Pi Coding Agent - All natural pine, faux fur and a bit of soho vibes for the classy minimalist",
   "main": "package.json",
   "files": [
@@ -19,7 +19,7 @@
     "themes": ["./themes"],
     "image": "https://github.com/tranquil-tr0/pi-rose-pine/raw/main/assets/icon.png"
   },
-  "homepage": "https://github.com/tranquil-tr0/pi-rose-pine#readme",
+  "homepage": "https://github.com/tranquil-tr0/pi-rose-pine",
   "bugs": {
     "url": "https://github.com/tranquil-tr0/pi-rose-pine/issues"
   }
