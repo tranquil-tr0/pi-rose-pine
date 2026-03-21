@@ -9,7 +9,7 @@
 
 Install with pi:
 
-```pi install npm:rose-pine-pi-themes```
+```pi install npm:@tran-quil/pi-rose-pine```
 
 ## Design notes
 
